@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516913744 source:c:\users\martina\documents\school\year 2\lectures & labs\programming\lab15 - sinewave\main.cpp
+	<math.h>
+	<iostream>
+
